@@ -6,6 +6,7 @@ Repo for learning different programming languages
 This is how I am currently trying to learn languages.
 - Learn basics from sources like: [Learn X in Y minutes](https://learnxinyminutes.com/)
 - Do a full-fledged, non-trivial project (Build a multithreaded webserver, build an interpreter, etc)
+- Fail and learn from chatGPT or [Onboard AI](https://getonboard.dev/) along the way.
 - Keep using it
 
 

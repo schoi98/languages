@@ -5,7 +5,7 @@
 
 (ns learn-x-in-y)
 (str "Hello" ", " "World!")
-(+ 1 2)
+; using clj repl
 ; (class 1) -> java.lang.Long
 ; (class 1.0) -> java.lang.Double
 ; '(+ 1 2) -> (+ 1 2)
