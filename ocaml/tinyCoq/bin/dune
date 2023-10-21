@@ -1,0 +1,4 @@
+(executable
+ (public_name tinyCoq)
+ (name main)
+ (libraries tinyCoq))
